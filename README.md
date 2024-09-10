@@ -5,7 +5,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
 ![hmhung1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmhung1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![hmhung1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmhung1&theme=vue-dark&hide_border=false)
+![hmhung1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmhung1&theme=vue-dark&hide_border=true)
 <br>
 <p align="center"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br></p>
 <br>
