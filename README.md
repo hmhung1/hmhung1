@@ -4,7 +4,7 @@
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
-[![ahii](https://api.githubtrends.io/user/svg/hmhung1/langs?time_range=one_year&theme=dark)](https://github.com/hmhung1)
+![hmhung1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmhung1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 [![ahii](https://api.githubtrends.io/user/svg/hmhung1/repos?time_range=one_year&group=other&theme=dark)](https://github.com/hmhung1)
 <br>
 <p align="center"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br></p>
