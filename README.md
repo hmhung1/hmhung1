@@ -2,10 +2,10 @@
 #### 🔭 tui sống tại TT Hữu Lũng, TP Lạng Sơn
 #### 🌱 tui đang học Nodejs nè
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=dark)](https://github.com/Citnut)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
-[![ahii](https://api.githubtrends.io/user/svg/Citnut/langs?time_range=one_year&theme=dark)](https://github.com/Citnut)
-[![ahii](https://api.githubtrends.io/user/svg/Citnut/repos?time_range=one_year&group=other&theme=dark)](https://github.com/Citnut)
+[![ahii](https://api.githubtrends.io/user/svg/hmhung1/langs?time_range=one_year&theme=dark)](https://github.com/hmhung1)
+[![ahii](https://api.githubtrends.io/user/svg/hmhung1/repos?time_range=one_year&group=other&theme=dark)](https://github.com/hmhung1)
 <br>
 <p align="center"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br></p>
 <br>
