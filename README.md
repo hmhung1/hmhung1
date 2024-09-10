@@ -7,8 +7,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
 
-![hmhung1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmhung1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![hmhung1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmhung1&theme=vue-dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmhung1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="420" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmhung1&theme=vue-dark&hide_border=true" width="420" height="165">
 
 <br>
 
