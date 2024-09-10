@@ -1,8 +1,8 @@
 # Chào Bạn! 👋
 
-### 🔭 Hiện tại mình sống tại **TT Hữu Lũng, TP Lạng Sơn**
-### 🌱 Mình đang học **Node.js** và yêu thích khám phá công nghệ
-### 👀 Mình thích tìm hiểu những điều mới mẻ, nhưng có thể hơi "ngơ ngác" chút 😅
+### 🔭 Hiện tại mình sống tại **Kim Bôi, Hòa Bình**
+### 🌱 Mình đang học **Node.js** nè
+### 👀 Thích khám phá những điều mới mẻ 😋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
