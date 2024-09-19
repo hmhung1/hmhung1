@@ -2,7 +2,7 @@
 
 ### 🔭 Hiện tại mình sống tại **Kim Bôi, Hòa Bình**
 ### 🌱 Mình đang học **Node.js** nè
-### 👀 Thích khám phá những điều mới mẻ 😋
+### 👀 Đừng mò repo của tôi vì nó như shit=))
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
 <br>
