@@ -1,26 +1,15 @@
-# Chào Bạn 👋
-#### 🔭 Tui sống tại TT Hữu Lũng, TP Lạng Sơn
-#### 🌱 Tui đang học Node.js nè
-#### 👰 He he tui là nhà nghiên cứu ngu ngốc
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmhung1&show_icons=true&theme=dark)](https://github.com/hmhung1)
-<br>
-[![ahii](https://api.githubtrends.io/user/svg/hmhung1/langs?time_range=one_year&theme=dark)](https://github.com/hmhung1)
-[![ahii](https://api.githubtrends.io/user/svg/hmhung1/repos?time_range=one_year&group=other&theme=dark)](https://github.com/hmhung1)
-<br>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hmhung123) 
 
-<p align="center"> 
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><br>
-</p>
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hmhung1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hmhung1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmhung1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://facebook.com/100048509610460" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" />
-  </a>
-  <a href="https://messenger.com/t/100048509610460" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg" alt="messenger" height="30" width="30" />
-  </a>
-</p>
-<br>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=hmhung1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
